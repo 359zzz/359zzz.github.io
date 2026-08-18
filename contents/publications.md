@@ -9,7 +9,7 @@
       <a href="https://arxiv.org/abs/2608.15026" target="_blank" rel="noopener noreferrer">PACE: Phase-Progress-Aware Credit for Long-Horizon Embodied Manipulation</a>
     </h3>
     <p class="publication-authors">Chengye Song*, <strong>Jiawei Zhang</strong>*, Rui Song, Shengqi Wang, Xiangrong Zhang, Ziyi Wang, Huanbin Zhou, Hongzhou Wang</p>
-    <p class="publication-venue">Submitted to AAAI 2027</p>
+    <p class="publication-venue">* Equal contribution.</p>
     <nav class="publication-links" aria-label="PACE publication links">
       <a href="https://arxiv.org/pdf/2608.15026" target="_blank" rel="noopener noreferrer">pdf</a>
       <span aria-hidden="true">|</span>
@@ -32,5 +32,3 @@
     </div>
   </div>
 </article>
-
-<p class="publication-note">* Equal contribution.</p>
