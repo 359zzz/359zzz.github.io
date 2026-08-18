@@ -1,0 +1,27 @@
+title: Jiawei Zhang
+page-top-title: Jiawei Zhang
+top-section-bg-text: "Embodied AI & Agentic Post-Training"
+backgrounds:
+  - static/assets/background/background_0.jpeg
+background-interval-ms: 7000
+background-overlay: 0.52
+copyright-text: '&copy; Jiawei Zhang 2026. All Rights Reserved.'
+github-link:
+  text: GitHub
+  href: https://github.com/359zzz
+license-link:
+  text: License
+  href: https://github.com/359zzz/359zzz.github.io/blob/main/LICENSE
+sections:
+  - id: home
+    nav: HOME
+    title: Jiawei Zhang
+    href: '#page-top'
+  - id: research
+    nav: RESEARCH
+    title: RESEARCH
+    icon: bi-lightbulb
+  - id: publications
+    nav: PUBLICATIONS
+    title: PUBLICATIONS
+    icon: bi-file-text-fill
